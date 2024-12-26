@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### IntelliJ ###
+.idea
+
+### iml files (IntelliJ) ###
+.iml
